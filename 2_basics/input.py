@@ -9,5 +9,5 @@ def readInput():
 readInput()
 
 #創造字典的概念
-#之後打我下面那三行hi1 hi2 hi3，然後在終端機打python3 input.py < test.txt
+#之後打我下面那三行hi1 hi2 hi3，然後在終端機打python3 input.py < test.txt(文字檔的名稱)
 #就會直接出現hi1 hi2 hi3
